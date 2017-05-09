@@ -20,6 +20,7 @@ public class Person {
     }
 
     public String getName() {
+        Log.e("tag", "nihao");
         return name;
     }
 
